@@ -18,3 +18,13 @@ Basic Python network scanner used to identify open ports on a target system.
 - security_logs.txt
 
 These projects demonstrate fundamental security concepts used in security operations centers (SOC) such as log analysis and reconnaissance detection.
+
+
+
+## Skills Demonstrated
+
+- Log analysis
+- Brute force detection
+- Network port scanning
+- Python scripting
+- Basic threat detection concepts
